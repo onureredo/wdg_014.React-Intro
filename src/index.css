@@ -1,0 +1,10 @@
+.app {
+  border: 2px solid crimson;
+  padding: 2rem;
+}
+
+.navbar,
+.products,
+.hero {
+  border: 2px solid black;
+}
